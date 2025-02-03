@@ -1,0 +1,36 @@
+.A{
+    border-radius: 16px;
+    background-color: rgb(255, 166, 0);
+    cursor: pointer;
+    height: 36px;
+    width: 80px;
+    border:none;
+    color: white;
+    text-align: right;
+    margin-right: auto;
+
+
+}
+.B{
+    border-radius: 16px;
+    color: chocolate;
+    height: 36px;
+    width: 80px;
+    border:none;
+    background-color: white;
+    cursor: pointer;
+
+    
+}
+.c{
+    cursor: pointer;
+    height: 36px;
+    width: 100px;
+    border:none;
+    background-color: indigo;
+    color: brown;
+    border-radius: 16px;
+}
+.hero{
+    
+}
